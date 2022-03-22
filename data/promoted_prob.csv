@@ -1,0 +1,21 @@
+,department,promoted,probability
+1,Admin,Not Promoted,49.883056471482966
+20,Admin,Promoted,52.79681076367261
+2,Engineering,Not Promoted,50.34618683877292
+23,Engineering,Promoted,33.67052023121387
+4,Finance,Not Promoted,50.72090574535295
+25,Finance,Promoted,33.04731551850944
+6,IT,Not Promoted,50.502615025436604
+27,IT,Promoted,24.228959749085206
+8,Logistics,Not Promoted,50.410667697362065
+29,Logistics,Promoted,26.031463342238055
+10,Marketing,Not Promoted,50.805104528712974
+31,Marketing,Promoted,28.533886583679113
+12,Operations,Not Promoted,50.580560456242566
+33,Operations,Promoted,27.432216905901118
+14,Retail,Not Promoted,50.292862414011985
+35,Retail,Promoted,40.88060421018801
+16,Sales,Not Promoted,50.012838816363846
+37,Sales,Promoted,49.52633573323229
+18,Support,Not Promoted,50.44534496235652
+39,Support,Promoted,34.37950937950938
