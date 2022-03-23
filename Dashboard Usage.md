@@ -9,3 +9,7 @@ This can be used to determine if it is worth it to take measures to keep an empl
 # Employee Stats
 This dashboard is used to see how the employee is currently treated at the company.
 This can be used in conjunction with the Department Analysis dashboard to determine what measures need to be taken to keep an employee
+
+# Dashboard Link
+The link is currently unavailable, but will be placed here once the dashboard is transfered into Tableau
+For the time being, please download the dashboard in this repository to view it
